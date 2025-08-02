@@ -153,7 +153,7 @@ The strategy underperforms during sideways or choppy markets but shows promise d
 
 ---
 
-## 📉 Risk Analysis
+##  Risk Analysis
 
 Risk metrics used:
 
